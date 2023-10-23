@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\ShoppingCartUI\\ShoppingCartUI\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\ShoppingCartUI.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ShoppingCartUI.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\ShoppingCartUI\\ShoppingCartUI\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\ShoppingCartUI\\ShoppingCartUI\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\ShoppingCartUI\\ShoppingCartUI\\wwwroot\\images\\NoImage.png",
+      "PackagePath": "staticwebassets\\images\\NoImage.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\ShoppingCartUI\\ShoppingCartUI\\wwwroot\\images\\hobbit.jfif",
+      "PackagePath": "staticwebassets\\images\\hobbit.jfif"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.ShoppingCartUI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.ShoppingCartUI.props",
+      "PackagePath": "build\\ShoppingCartUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.ShoppingCartUI.props",
+      "PackagePath": "buildMultiTargeting\\ShoppingCartUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.ShoppingCartUI.props",
+      "PackagePath": "buildTransitive\\ShoppingCartUI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
