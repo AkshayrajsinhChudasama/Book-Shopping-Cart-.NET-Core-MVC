@@ -6,7 +6,7 @@ The user can also see all the previous orders placed by him.
 This application is very important part of any ecommerce application and used everywhere.
 
 *ON WHICH PLATFORM DOES THE SYSTEM WORK*
---> This system works on asp.net and for that visual studio is must i made this system using visual studio 2019 and for database i used ms sql server database .
+--> This system works on .net core mvc and for that visual studio is must i made this system using visual studio 2019 and for database i used ms sql server database .
 
 *HOW TO USE THIS SYSTEM* 
 --> Install visual studio from this(https://visualstudio.microsoft.com/).
@@ -14,4 +14,4 @@ This application is very important part of any ecommerce application and used ev
 --> Once project is successfully imported click the run icon on the top bar and for login credentials you can view database.
 
 *SYSTEM DESIGN*
---> It is a asp.net c# application which uses database to store retrieve and update the data inside database.  
+--> It is a .net core mvc c# application which uses database to store retrieve and update the data inside database.  
