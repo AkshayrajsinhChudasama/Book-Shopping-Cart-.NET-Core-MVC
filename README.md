@@ -1,5 +1,5 @@
 # Shopping Cart Application for books
-**Book Shopping Cart using asp.net c# and ms sql server in visual studio 2019**
+**Book Shopping Cart using .net core mvc, c# and ms sql server in visual studio 2019**
 
 This a simple Shopping Cart application in which the user can add, remove the items and then check out.
 The user can also see all the previous orders placed by him.
